@@ -1,4 +1,4 @@
-# current-blockade-in-nanopore
+# Current blockade in nanopore
 
 This is the repository for supplementary files from:
 
