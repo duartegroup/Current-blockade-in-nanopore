@@ -11,4 +11,4 @@ Zonghua Bo, Zhong Hui Lim, Fernanda Duarte, Hagan Bayley, Yujia Qing
 
 #
 
-For any questions, please contact zonghua.bo@chem.ox.ac.uk
+For any questions, please contact zonghua.bo@chem.ox.ac.uk.
