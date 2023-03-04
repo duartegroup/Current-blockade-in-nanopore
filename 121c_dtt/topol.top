@@ -11,9 +11,9 @@
 ;	
 ;	Executable:   /usr/local/gromacs/bin/gmx
 ;	Data prefix:  /usr/local/gromacs
-;	Working dir:  /Users/allybo/Library/CloudStorage/OneDrive-Nexus365/Ally paper/Computational_Section/files/121c_dtt
+;	Working dir:  /Users/allybo/files/121c_dtt
 ;	Command line:
-;	  gmx pdb2gmx -water tip3p -f 121c_dtt_fixed.pdb -o 121c_dtt.gro
+;	  gmx pdb2gmx -water tip3p -f 121c_dtt.pdb -o 121c_dtt.gro
 ;	Force field data was read from:
 ;	/Users/allybo/Documents/top
 ;
