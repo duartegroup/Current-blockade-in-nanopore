@@ -5,8 +5,7 @@ This is the repository for supplementary files from:
 ## Mobile molecules: reactivity profiling guides faster movement on a cysteine track
 Zonghua Bo, Zhong Hui Lim, Fernanda Duarte, Hagan Bayley, Yujia Qing
 
-<img width="834" alt="cover_v9" src="https://user-images.githubusercontent.com/46780283/223179779-f8b3ca2f-1ca4-4750-8122-963479a9a8f0.png">
-
+![Image_rabbit-01_final-01](https://user-images.githubusercontent.com/46780283/226431294-46a62999-be56-4342-8a51-ea42b4839a94.png)
 
 #
 
